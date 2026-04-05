@@ -6,13 +6,13 @@ Developer
 
 Now, I'm developer (back-end and front-end),
 
-Contact me at
+👇👇 Contact me at 👇👇
 
-Tell: 0622541141
+📞Tell: 0622541141
 
-Email: 100thunderrr@gmail.com
+📧Email: 100thunderrr@gmail.com
 
-Line: @100thunderrr
+👉Line: @100thunderrr
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [100thunderrr@gmail.com](mailto:100thunderrr@gmail.com)
@@ -24,12 +24,3 @@ Line: @100thunderrr
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/SaifaPhosri" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/100thunder" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/Saifa.esmix" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/SaifaPhosri"><img src="https://github-readme-stats.vercel.app/api?username=SaifaPhosri&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="SaifaPhosri's GitHub stats" /></a>
-
-<a href="http://www.github.com/SaifaPhosri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SaifaPhosri&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/SaifaPhosri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaifaPhosri&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
