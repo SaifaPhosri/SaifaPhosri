@@ -15,7 +15,7 @@ Now, I'm developer (back-end and front-end)
 👉Line: @100thunderrr
 
 * 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [100thunderrr@gmail.com](mailto:100thunderrr@gmail.com)
+
 
 ### Skills
 
