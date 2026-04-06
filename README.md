@@ -12,7 +12,7 @@ Now, I'm developer (back-end and front-end)
 
 📧Email: 100thunderrr@gmail.com
 
-👉Line: @100thunderrr
+👉Line: 100thunderrr
 
 * 🌍  I'm based in Bangkok, Thailand
 
